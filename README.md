@@ -8,7 +8,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
--   [Solution URL](https://github.com/AfterWaGa/FM_Social-Links])
+-   [Solution URL](https://github.com/AfterWaGa/FM_Social-Links)
 -   [Live Site URL](https://afterwaga.github.io/FM_Social-Links/)
 
 ## Author
